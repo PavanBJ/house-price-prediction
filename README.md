@@ -1,2 +1,2 @@
 # house-price-prediction
-House price prediction using linear regression
+Simple House price prediction model using linear regression
